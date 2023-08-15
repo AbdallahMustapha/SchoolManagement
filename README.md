@@ -1,5 +1,5 @@
-ABDALLAH MUSTAPHA 
-UEB3238822 
+ABDALLAH MUSTAPHA
+UEB3238822
 CLASS D
 School Management System project can be used to manage and track student 
 performance, attendance, and grades. The School Management System project 
